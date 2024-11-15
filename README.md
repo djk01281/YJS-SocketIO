@@ -12,7 +12,6 @@ https://github.com/user-attachments/assets/0ceb786a-d0f0-4e59-b72f-b0f057d755fe
 > 1. Socket.io로 통신, Y.doc에 일어난 변경 값을 서버에서 확인 <br>
 > 2. 클라이언트들과 서버 간 같은 Y.doc을 공유
 
-<br>
 
 ### ⚙️ 실행 방법
 
