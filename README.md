@@ -1,10 +1,8 @@
 ### About
 
-🏷️ **설명** : YJS, SocketIO, React, NestJS 프로토타입
+🏷️ **설명** : YJS - SocketIO, React - NestJS 프로토타입
 
 🔖 **학습정리** : https://djk0128.notion.site/YJS-SocketIO-13fff3be3e8a8073bd2cdebe26aa86f1?pvs=73
-
-
 
 https://github.com/user-attachments/assets/0ceb786a-d0f0-4e59-b72f-b0f057d755fe
 
